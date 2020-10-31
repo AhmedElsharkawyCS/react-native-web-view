@@ -4,5 +4,5 @@
 
 ## instructions
 
-\*get `clientId` from [PayPal Dashboard](https://developer.paypal.com/developer/applications)
-\*set `clientId` that exist inside `App.js`
+- get `clientId` from [PayPal Dashboard](https://developer.paypal.com/developer/applications)
+- set `clientId` that exist inside `App.js`
